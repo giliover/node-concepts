@@ -1,2 +1,2 @@
 # node_concepts
-Firt project of the @GoStack 
+Second challenge of the @GoStack 
